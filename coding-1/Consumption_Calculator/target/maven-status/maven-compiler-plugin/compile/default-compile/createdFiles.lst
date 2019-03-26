@@ -1,0 +1,15 @@
+com\consumption\engine\services\ConsumptionService.class
+com\consumption\engine\errorhandling\RecordNotFoundException.class
+com\consumption\engine\dao\ConsumptionDAO.class
+com\consumption\engine\dao\ConsumptionDAOImpl.class
+com\consumption\engine\errorhandling\ErrorResponse.class
+com\consumption\engine\pojos\ConsumptionInfo.class
+com\consumption\engine\configuration\HibernateConfiguration.class
+com\consumption\engine\errorhandling\ExceptionHandlerController.class
+com\consumption\engine\pojos\ConsumptionReport.class
+com\consumption\engine\controller\ConsumptionController.class
+com\consumption\engine\errorhandling\CustomException.class
+com\consumption\engine\pojos\PlaceInfo.class
+com\consumption\engine\services\ConsumptionServiceImpl.class
+com\consumption\engine\ConsumptionCalculateApplication.class
+com\consumption\engine\pojos\Villages.class
