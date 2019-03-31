@@ -1,11 +1,12 @@
 
 Running as Docker Containers:
 
+
 Pull docker image of mysql.
 
 docker pull mysql
 
-Run for SQl container to gt started:
+Run for SQl container to get started:
 
 docker run --name mysqlcontainer -e MYSQL_ROOT_PASSWORD=PASSWORD -e MYSQL_DATABASE=energy_consumption -p 3307:3307 -d mysql:latest
 
