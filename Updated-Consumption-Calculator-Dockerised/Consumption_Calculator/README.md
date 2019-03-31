@@ -1,7 +1,6 @@
 
 Running as Docker Containers:
 
-
 Pull docker image of mysql.
 
 docker pull mysql
