@@ -38,11 +38,14 @@ To run Spring boot as container and link it to mySQL:
 mvn clean install
 
 Build docker file:
+
 docker build -f Dockerfile -t consumptioncalculator .
 
 Run spring boot container with mysql:
+
 docker run -t --name consumptioncalculator --link mysqlcontainer:mysql  -p 8091:9099 consumptioncalculator
 
 
 SWAGGER API to check the consumption calculator APIs:
+
 http://localhost:8091/swagger-ui.html
