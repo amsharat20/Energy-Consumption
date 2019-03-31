@@ -1,7 +1,0 @@
-com\consumption\engine\controller\MockControllerTestGetCounterId.class
-com\consumption\engine\controller\RepositoryTest.class
-com\consumption\engine\controller\MockControllerTestGet24hData.class
-com\consumption\engine\ConsumptionCalculateApplicationTest.class
-com\consumption\engine\controller\MockControllerTestAddConsumption.class
-com\consumption\engine\controller\MockControllerTestAddCounter.class
-com\consumption\engine\controller\MockitoTests.class
