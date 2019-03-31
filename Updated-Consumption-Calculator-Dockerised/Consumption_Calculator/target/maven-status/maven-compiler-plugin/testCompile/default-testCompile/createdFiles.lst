@@ -1,0 +1,5 @@
+com\consumption\engine\ConsumptionCalculateApplicationTest.class
+com\consumption\engine\integration\TestConsumptionEnginePost.class
+com\consumption\engine\unittests\ConsumptionServiceLayerTest.class
+com\consumption\engine\integration\TestConsumptionEngineGet.class
+com\consumption\engine\integration\TestConsumptionEngineGet24.class
