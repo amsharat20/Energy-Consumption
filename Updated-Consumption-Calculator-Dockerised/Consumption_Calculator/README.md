@@ -10,7 +10,7 @@ Run for SQl container to get started:
 
 docker run --name mysqlcontainer -e MYSQL_ROOT_PASSWORD=PASSWORD -e MYSQL_DATABASE=energy_consumption -p 3307:3307 -d mysql:latest
 
-To give permissions run in command-line to enter docker mysql bash:
+To give permissions run in command-line and enter docker mysql bash:
 
 docker exec -it mysql bash
 
